@@ -1,0 +1,17 @@
+{
+  "name": "scan-agent",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ua-parser-js": "1.0.1",
+    "fsevents": "1.2.9",
+    "lodash":"1.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {}
+}
